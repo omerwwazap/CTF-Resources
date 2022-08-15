@@ -74,11 +74,13 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 
 - Username and Social Media Finder - https://whatsmyname.app/
 - Official Documents by Country (Passports/IDs/Documents/Visa etc)- https://www.edisontd.nl/
+- Swiss Online Investigation Toolkit - https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview
 
 ## Start Me Pages
 
 - SANS 2022 OSINT Summit Links - https://start.me/p/1kBrw9/sans-osint-2022
 - https://start.me/p/1kJKR9/commandergirl-s-suggestions
+- https://start.me/p/1kvvxN/faros-osint-resources
 - 
 
 ## More Lists
@@ -91,6 +93,11 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - <https://amazingtricks.in/tools/ctf-tools/>
 - https://github.com/devploit/CTF_OnlineTools
 - https://www.hucerc.com/recommended-tool-list-for-ctf/
+- https://map.malfrats.industries/
+- https://inteltechniques.com/tools/index.html
+- https://ciberpatrulla.com/links/
+- https://osintframework.com/
+- Obsure Sites - https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op
 
 ## SandBoxes and Analysis Tools
 
