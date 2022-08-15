@@ -99,6 +99,7 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - https://ciberpatrulla.com/links/
 - https://osintframework.com/
 - Obscure Sites - https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op
+- Amazing List - https://ohshint.gitbook.io/oh-shint-its-a-blog/
 
 ## SandBoxes and Analysis Tools
 
