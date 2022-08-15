@@ -69,6 +69,8 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - Tor Links - https://tor.taxi/
 - Passport by Countries - https://www.passportindex.org/
 - Satellite Location - http://observer.farearth.com/observer/
+- Sade / Shadows Map -  https://shademap.app/
+- PVM Camera Calculator - https://calculator.ipvm.com/
 
 ## OSINT
 
@@ -81,7 +83,6 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - SANS 2022 OSINT Summit Links - https://start.me/p/1kBrw9/sans-osint-2022
 - https://start.me/p/1kJKR9/commandergirl-s-suggestions
 - https://start.me/p/1kvvxN/faros-osint-resources
-- 
 
 ## More Lists
 
@@ -97,7 +98,7 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - https://inteltechniques.com/tools/index.html
 - https://ciberpatrulla.com/links/
 - https://osintframework.com/
-- Obsure Sites - https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op
+- Obscure Sites - https://airtable.com/embed/shrYXDdO1V5y33lIX/tblgDtMXI4fxtg9Op
 
 ## SandBoxes and Analysis Tools
 
