@@ -60,7 +60,7 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 ## Misc
 
 - [Football Stuff](https://www.transfermarkt.com/)
-- [Football Team Color and Kits (https://www.footballkitarchive.com/)
+- [Football Team Color and Kits](https://www.footballkitarchive.com/)
 - [World Wide Wifi Network List](https://wigle.net/)
 - [Domain Tools](http://online-domain-tools.com/)
 - [Obscure Programming Langues](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
@@ -81,13 +81,15 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 ## Start Me Pages
 
 - [SANS 2022 OSINT Summit Links](https://start.me/p/1kBrw9/sans-osint-2022)
+- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 - [Amazing OSINT List by OSINTDojo](https://www.osintdojo.com/resources/)
 - [OSINT Suggestions List](https://start.me/p/1kJKR9/commandergirl-s-suggestions)
 - [Faros OSINT Resources](https://start.me/p/1kvvxN/faros-osint-resources)
+- [NCSO OSINT List](https://start.me/p/BnrMKd/01-ncso)
 
 ## More Lists
 
-- [Awesome Ctf - Github](https://github.com/apsdehal/awesome-ctf)
+- [Awesome CTF - Github](https://github.com/apsdehal/awesome-ctf)
 - [CTF Tips - Github](https://github.com/OpenToAllCTF/Tips)
 - [OSINT CTF Wiki - Github](https://github.com/osirislab/Project-Ideas/wiki)
 - [CTF Cheat Sheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)
@@ -109,3 +111,11 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 - [Virus Total](https://www.virustotal.com/)
 - [Testing URL - 1 - urlscan](https://urlscan.io/)
 - [Testing URL - 2 - urlquery](https://urlquery.net/)
+
+## Other
+
+- [OSINT Forum](https://osintsumo.com/) - Never used but worth a look.
+- [Cool Information Security Blog - Has some OSINT Topics](https://www.irongeek.com/)
+- [CombineOSINT's OSINT Bookmarks](https://www.osintcombine.com/osint-bookmarks)
+- [Amazing Real Life OSINT Projects](https://www.bellingcat.com/)
+- [Amazing Verification Platform](https://www.invid-project.eu/)
