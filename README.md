@@ -44,7 +44,7 @@ Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we
 
 - [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
 - [Universal site for deciphering](https://www.dcode.fr/en)
-- [The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 - [GPG/PGP Decoder](https://cirw.in/gpg-decoder/)
 - [Breaking substitution or vigenere ciphers](https://quipqiup.com/)
 - [Fast string decode](https://kt.gy/tools.html#conv/)
