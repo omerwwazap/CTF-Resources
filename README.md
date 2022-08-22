@@ -1,6 +1,6 @@
 # CTF-Resources
 
-Tools and Site list that i use in CTF. I Keep forgetting the tools :) So here we are. Will be Gitbook in the future
+Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) So here we are. Also, this will be Gitbook in the future.
 
 **All of these tools are Online / Web Tools**
 
