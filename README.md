@@ -45,6 +45,8 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 - [Cipher Identifier](https://www.dcode.fr/cipher-identifier)
 - [Universal site for deciphering](https://www.dcode.fr/en)
 - [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+- [Cool Simple Tools and an Identifier](https://merricx.github.io/enigmator/index.html)
+- [Tools and an Identifier](https://www.cryptool.org/en/cto/ncid)
 - [GPG/PGP Decoder](https://cirw.in/gpg-decoder/)
 - [Breaking substitution or vigenere ciphers](https://quipqiup.com/)
 - [Fast string decode](https://kt.gy/tools.html#conv/)
@@ -56,6 +58,7 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 - [Hash Cracker](https://crackstation.net/)
 - [Binary Finder](https://www.boxentriq.com/code-breaking/binary-analysis)
 - [Morse Code and Audio Decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html)
+- [Tool List](https://www.boxentriq.com/)
 
 ## Misc
 
