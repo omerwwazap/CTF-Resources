@@ -94,6 +94,7 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 ## More Lists
 
 - [Awesome CTF - Github](https://github.com/apsdehal/awesome-ctf)
+- [Amazing List - 1000s of Sites - Github](https://github.com/cipher387/osint_stuff_tool_collection)
 - [CTF Tips - Github](https://github.com/OpenToAllCTF/Tips)
 - [OSINT CTF Wiki - Github](https://github.com/osirislab/Project-Ideas/wiki)
 - [CTF Cheat Sheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/)
