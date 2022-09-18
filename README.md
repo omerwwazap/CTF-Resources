@@ -109,6 +109,7 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 - [Amazing List - Blog](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 - [CTF Tools - 3 - Not English](https://ciberpatrulla.com/links/)
 - [CTF Tools - 4 List](https://start.me/p/OmxDOj/ctf)
+- [Semi Offical OSINT List for Start-Me](https://start.me/p/Pwy0X4/osint-inception)
 
 ## SandBoxes and Analysis Tools
 
