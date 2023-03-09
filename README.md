@@ -19,13 +19,13 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 
 ## Image Recognition, Cleanup etc.
 
-- [Car Make/Model Recognition](https://carnet.ai/) - **Example:** ///hello.ctf.cool
+- [Car Make/Model Recognition](https://carnet.ai/)
 - [AI Image CleanUp](https://cleanup.pictures/)
 - [Website Image Extractor](https://extract.pics/)
 
 ## Coordinate Systems
 
-- [what3words](https://what3words.com/)
+- [what3words](https://what3words.com/) - **Example** ///pretty.needed.chill
 
 ## Reverse Engineering
 
