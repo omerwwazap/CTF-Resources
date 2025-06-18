@@ -80,6 +80,10 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 - [Username and Social Media Finder](https://whatsmyname.app/)
 - [Official Documents by Country (Passports/IDs/Documents/Visa etc)](https://www.edisontd.nl/)
 - [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview)
+- [all 50 US states blurred license plates](https://www.reddit.com/r/geoguessr/comments/lhz9gj/all_50_us_states_blurred_license_plates_fixed/)
+- [Geoguesser Wiki](https://www.reddit.com/r/geoguessr/wiki/index/)
+- [Nixintel OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+- [Osinttechniques - Tools List](https://www.osinttechniques.com/osint-tools.html)
 
 ## Start Me Pages
 
@@ -94,6 +98,7 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 ## More Lists
 
 - [Awesome CTF - Github](https://github.com/apsdehal/awesome-ctf)
+- [Major List - OSINT CheatSheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 - [Amazing List - 1000s of Sites - Github](https://github.com/cipher387/osint_stuff_tool_collection)
 - [CTF Tips - Github](https://github.com/OpenToAllCTF/Tips)
 - [OSINT CTF Wiki - Github](https://github.com/osirislab/Project-Ideas/wiki)
@@ -110,6 +115,9 @@ Tools and Site lists that I use in CTFs because I Keep forgetting the tools :) S
 - [CTF Tools - 3 - Not English](https://ciberpatrulla.com/links/)
 - [CTF Tools - 4 List](https://start.me/p/OmxDOj/ctf)
 - [Semi Offical OSINT List for Start-Me](https://start.me/p/Pwy0X4/osint-inception)
+- [CTF Field Guide - Forensics](https://trailofbits.github.io/ctf/forensics/)
+- [CTF Cryptography for Beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+- [Another - Awesome OSINT List](https://github.com/jivoi/awesome-osint)
 
 ## SandBoxes and Analysis Tools
 
